@@ -1,1 +1,1 @@
-# spamsmsclassification
+# Spam SMS classification
